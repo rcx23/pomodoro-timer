@@ -1,3 +1,15 @@
+# Pomodoro Mobile App
+The purpose of this app is to be able to set timers to focus for a fixed amount of time, and to increase focus. The Pomodoro style is a proven style of studying and working.
+
+In order to run:
+1. Install Node.js
+2. Run `npm install -g yarn` to install Yarn
+3. Run `Set-ExecutionPolicy RemoteSigned -Scope CurrentUser` in Powershell to give permissions to run Yarn.
+4. Restart IDE
+5. `yarn start`
+6. `yarn add expo-cli --global`
+7. To run on Virtual Machine, run `yarn android`
+
 # Sample Snack app
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
